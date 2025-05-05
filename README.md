@@ -1,11 +1,13 @@
 ## Um pouco sobre mim:
 
-- Atualmente eu trabalho no financeiro.
 - Estudando Java, Html, Css e Python.
 - Contate-me no email: caioqueirozbacinelo@gmail.com.
 - Estudo na Universidade Presbiteriana Mackenzie.
-- Me encontro no terceiro semestre!
 - Atualmente busco me especializar em Java, então os principais projetos serão nessa linguagem, mas não será apenas isso!
+
+<p align="left">
+  <img width="250" src="https://media.tenor.com/PaWkx1DhdcYAAAAj/beavis-and-butthead-headbanging.gif">
+</p>
 
   ##
   
