@@ -1,8 +1,11 @@
 ## Olá, eu sou o Caio Bacinelo
 
-- 🔭 Atualmente eu trabalho no financeiro
-- 🌱 Estudando Java
-- 📫 Contate-me no email: caioqueirozbacinelo@gmail.com
+- Atualmente eu trabalho no financeiro.
+- Estudando Java, Html, Css e Python.
+- Contate-me no email: caioqueirozbacinelo@gmail.com.
+- Estudo na Universidade Presbiteriana Mackenzie.
+- Me encontro no terceiro semestre!
+- Atualmente busco me especializar em Java, então os principais projetos serão nessa linguagem, mas não será apenas isso!
 
 <div>
   <a href="https://beacons.ai/CaioBacinelo">
