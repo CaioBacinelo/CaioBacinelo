@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Sou Caio Queiroz, tenho 18 anos e atualmente estou desenvolvendo uma pesquisa sobre cibersegurança em pequenas e médias empresas, com foco na aplicação de inteligência artificial (IA). O objetivo é transformar essa pesquisa em um projeto de iniciação científica no futuro.<br><br>Sou aluno do 3º semestre do curso de Sistemas de Informação na Universidade Presbiteriana Mackenzie.<br><br>Busco me especializar em Java, então a maioria dos meus projetos será desenvolvida nessa linguagem, mas não será só isso! Também estudo HTML, CSS e Python para ampliar meus conhecimentos em desenvolvimento e tecnologia.<br><br>Contato: caioqueirozbacinelo@gmail.com</p>
+<p align="left">Sou Caio Bacinelo, tenho 18 anos e atualmente estou desenvolvendo uma pesquisa sobre cibersegurança em pequenas e médias empresas, com foco na aplicação de inteligência artificial (IA). O objetivo é transformar essa pesquisa em um projeto de iniciação científica no futuro.<br><br>Sou aluno do 3º semestre do curso de Sistemas de Informação na Universidade Presbiteriana Mackenzie.<br><br>Busco me especializar em Java, então a maioria dos meus projetos será desenvolvida nessa linguagem, mas não será só isso! Também estudo HTML, CSS e Python para ampliar meus conhecimentos em desenvolvimento e tecnologia.<br><br>Contato: caioqueirozbacinelo@gmail.com</p>
 
 ###
 
