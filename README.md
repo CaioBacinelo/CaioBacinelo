@@ -1,8 +1,3 @@
-<div align="center">
-  <img height="200" src="https://media.tenor.com/00-fz5p0t4IAAAAj/beavis-and-butthead-beavis.gif"  />
-</div>
-
-###
 
 <h1 align="left">Caio Bacinelo</h1>
 
@@ -11,6 +6,10 @@
 <p align="left">I'm Caio Bacinelo, an 18-year-old Information Systems student in my 3rd semester at Universidade Presbiteriana Mackenzie. I'm currently researching cybersecurity in small and medium-sized businesses, focusing on the application of artificial intelligence. My goal is to turn this into a scientific initiation project.
 
 I'm specializing in Java, which will be the main language for most of my projects. I also study HTML, CSS, and Python to broaden my skills in development and technology.<br><br>Contact: caioqueirozbacinelo@gmail.com</p>
+
+<div align="left">
+  <img height="200" src="https://media.tenor.com/00-fz5p0t4IAAAAj/beavis-and-butthead-beavis.gif"  />
+</div>
 
 ###
 
