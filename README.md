@@ -1,3 +1,8 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFD5&center=true&vCenter=true&random=false&width=520&lines=Hi%2C+I'm+Caio+Bacinelo!;Cybersecurity+%26+AI+Researcher;Java+%7C+Python+%7C+HTML%2FCSS;Info+Systems+Student" alt="Typing SVG" />
+  </a>
+</div>
 
 <h1 align="left">Caio Bacinelo</h1>
 
